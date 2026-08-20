@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.chromadb/
+*.faiss/
+data/
+*.pdf/
+CLAUDE.md/
+DESIGN_DOC_DISCREPANCIES.md/
+REMEDIATION_PLAN.md/
+*.docx/
+.claude
